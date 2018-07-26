@@ -1,1 +1,2 @@
-<script src="{{ "js/prism/prism.js" | relURL }}"></script>
+{{- $js := resources.Get "js/prism/prism.js" | fingerprint }}
+<script src="{{ $js.RelPermalink }}"></script>
