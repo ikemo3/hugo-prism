@@ -1,2 +1,2 @@
-{{- $js := resources.Get "js/prism/prism.js" | fingerprint }}
+{{- $js := resources.Get "js/prism/prism.js" | fingerprint -}}
 <script src="{{ $js.RelPermalink }}"></script>
