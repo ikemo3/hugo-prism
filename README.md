@@ -23,7 +23,7 @@
 
 現在は、自分が個人的に使う可能性があるもののみにしています。
 
-http://prismjs.com/download.html#themes=prism&languages=markup+css+clike+javascript+apacheconf+applescript+c+bash+batch+ruby+django+docker+git+go+groovy+java+json+kotlin+latex+lua+makefile+markdown+objectivec+perl+sql+properties+python+swift+vim+yaml&plugins=toolbar+show-language
+https://prismjs.com/download.html#themes=prism&languages=markup+css+clike+javascript+apacheconf+applescript+c+bash+batch+ruby+django+docker+git+go+groovy+java+json+kotlin+latex+markdown+lua+makefile+objectivec+perl+sql+properties+scss+python+typescript+swift+yaml+vim&plugins=toolbar+show-language+copy-to-clipboard
 
 * Core
 * Themes: Default
@@ -54,13 +54,16 @@ http://prismjs.com/download.html#themes=prism&languages=markup+css+clike+javascr
     * .properties
     * Python
     * Ruby
+    * Sass (Scss)
     * SQL
     * Swift
+    * TypeScript
     * vim
     * YAML
 * Plugins:
     * Show Language
     * Toolbar(Show Languageが依存)
+    * Copy to Clipboard Button
 
 ## ライセンス
 
